@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VK-SDK-Code-Template</string>
+    <string name="login_hello">The application was created to demonstrate the code.\nPlease, press Login to see your friends.</string>
+    <string name="login_enter">Login</string>
+    <string name="friends_search_hint">Enter your query here</string>
+    <string name="login_error">Failed to log in</string>
+    <string name="friend_no_city">City not specified</string>
+    <string name="request_error">An error occurred during the request</string>
+    <string name="no_friends">No Friends</string>
+    <integer name="com_vk_sdk_AppId">7143074</integer>
+</resources>
