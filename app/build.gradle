@@ -44,12 +44,6 @@ dependencies {
     implementation "tech.schoolhelper:moxy-x-androidx:$moxyVersion"
     kapt "tech.schoolhelper:moxy-x-compiler:$moxyVersion"
 
-    // Dagger
-    def daggerVersion = "2.15"
-    api "com.google.dagger:dagger-android:$daggerVersion"
-    api "com.google.dagger:dagger-android-support:$daggerVersion"
-    kapt "com.google.dagger:dagger-android-processor:$daggerVersion"
-
     // CircleImageView
     implementation 'de.hdodenhof:circleimageview:3.0.1'
 
