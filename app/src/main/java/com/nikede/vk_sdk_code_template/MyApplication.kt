@@ -1,4 +1,4 @@
-package com.nikede.vk_sdk_code_template.helpers
+package com.nikede.vk_sdk_code_template
 
 import android.app.Application
 import com.vk.api.sdk.VK
